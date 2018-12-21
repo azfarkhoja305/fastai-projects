@@ -8,7 +8,7 @@ Deployed the model using Docker and Heroku. You can pick any image from the web 
 http://football-soccer.herokuapp.com/  
 (No support for images not belonging to any of the classes i.e outliers) 
 
-* Portrait Segmentation   
-Dataset taken from this [paper](http://xiaoyongshen.me/webpage_portrait/papers/portrait_eg16.pdf) 
+* Portrait Segmentation    
+(dataset taken from this [paper](http://xiaoyongshen.me/webpage_portrait/papers/portrait_eg16.pdf))
   * [Portrait Segmentation](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Portrait%20Segmentation/1%29%20Portrait%20Segmentation%20with%20original%20dataset%20.ipynb) using the original dataset
   * [Potrait Segementation](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Portrait%20Segmentation/2%29%20Portrait%20segmentation%20with%20CelebA%20Test.ipynb) using the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) images as the test set
