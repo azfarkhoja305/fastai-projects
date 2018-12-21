@@ -5,4 +5,7 @@
 *.jpeg
 *.mat
 *.zip
-
+*.gif
+*.JPG
+*.aspx
+*.ashx
