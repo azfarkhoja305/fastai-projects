@@ -3,7 +3,8 @@ Exploring Deep Learning by creating small projects and applications using the fa
 
 ## Contents 
 
-* [Identify an image as belonging to either American Football or Soccer](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/American-Football%20vs%20Soccer/Football%20Vs%20Football%20%21%20Ohh%20wait%20the%20Americans%20call%20it%20soccer.ipynb)  
+* Classification
+  * [Identify an image as belonging to either American Football or Soccer](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/American-Football%20vs%20Soccer/Football%20Vs%20Football%20%21%20Ohh%20wait%20the%20Americans%20call%20it%20soccer.ipynb)  
 Deployed the model using Docker and Heroku. You can pick any image from the web and give it a try at  
 http://football-soccer.herokuapp.com/  
 (No support for images not belonging to any of the classes i.e outliers) 
