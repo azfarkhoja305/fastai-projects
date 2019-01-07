@@ -14,4 +14,4 @@ http://football-soccer.herokuapp.com/
   * [Portrait Segmentation](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Portrait%20Segmentation/1%29%20Portrait%20Segmentation%20with%20original%20dataset%20.ipynb) using the original dataset
   * [Potrait Segementation](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Portrait%20Segmentation/2%29%20Portrait%20segmentation%20with%20CelebA%20Test.ipynb) using the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) images as the test set
 
-* [Facial Landmark Localization](http://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Facial%20Landmarks%20Localization%20/Facial%20Landmarks%20Localization.ipynb) using the CelebA dataset (taken from [kaggle](https://www.kaggle.com/jessicali9530/celeba-dataset))
+* [Facial Landmark Localization](https://nbviewer.jupyter.org/github/azfarkhoja305/fastai-projects/blob/master/Facial%20Landmarks%20Localization%20/Facial%20Landmark%20Localization.ipynb) using the CelebA dataset (taken from [kaggle](https://www.kaggle.com/jessicali9530/celeba-dataset))
